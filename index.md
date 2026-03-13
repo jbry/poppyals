@@ -18,5 +18,5 @@ permalink: /
 
 [ALS.org](https://www.als.org/?form=general&s_src=donatebutton) - ALS Foundation (Funding research, ensuring access to quality care and disease education, advocating for policy change, and raising awareness.)
 
-https://teamgleason.app.neoncrm.com/forms/donate - Team Gleason. Provides technology, equipment, and services to families facing ALS. They have been instrumental in supporting getting the equipment needed to support his physical and mobility challenges.
+[Team Gleason Foundation](https://teamgleason.app.neoncrm.com/forms/donate) - Team Gleason Foundation. Provides technology, equipment, and services to families facing ALS. They have been instrumental in supporting getting the equipment needed to support his physical and mobility challenges.
 
