@@ -2,23 +2,16 @@
 layout: home
 title: Home
 description: >-
-  Especializado en el desarrollo de API RESTs con Ruby on Rails. He participado
-  en diversas etapas del ciclo de desarrollo de aplicaciones.
-image: /assets/images/main.avif
+  Raising money for ALS Research
+image: /assets/images/poppy_pic.jpg
 main_content: >
-  # Hello Friend. Hello World.
+  # The Bryant Family - Our Story
 
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+  **You found a duck!** We are the Bryant family. Last summer, Jim (also known as James, Dad, Poppy, or Dadoo) was diagnosed with a terrible disease - ALS. This disease slowly robs him of his ability to control his muscles - and there is no treatment or cure. We are working to make memories while we still have time. Though he is now wheelchair bound, he is looking forward to this trip. Jim is a loving husband, a father of 2, and a grandfather to two (and one on the way). 
 
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
-
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
-footer: true
+  If you are able - we would love it if you would make any kind of donation to support research, treatments, and care for those who are diagnosed with this terrible disease. Meagan (far left - with the Minnie ears) has created these ducks to bring joy to anyone who finds them - and if you feel so inclined - we would truly appreciate it if you would be willing to make a donation.
+footer: false
 permalink: /
 ---
 ## Hello World
